@@ -32,6 +32,19 @@
 
 </head>
 <body>
+    <h1>My phone number;0502484857</h1>
+</body>
+</html>
+
+</head>
+<body>
+    <h1>My adress: Aaly Tokombaeva 27</h1>
+</body>
+</html>
+
+
+</head>
+<body>
     <h1>i am senior collage student at it bussines college in International Ala-Too university </h1>
 </body>
 </html>
