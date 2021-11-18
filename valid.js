@@ -32,7 +32,7 @@ function email_Verify(){
 	}
 }
 function pass_Verify(){
-	if (password.value.length == 15) {
+	if (password.value.length == 10) {
 		password.style.border = "1px solid silver";
 		pass_error.style.display = "none";
 		return true;
